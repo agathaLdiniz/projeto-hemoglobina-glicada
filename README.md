@@ -13,9 +13,6 @@ Este projeto consiste em uma análise exploratória de dados de pacientes com he
 - [ ] Visualizar informações importantes
 - [ ] Gerar insights para ação
 
-## 🚀 Como Começar
-
-### 1. Clone o repositório
 ```bash
 git clone https://github.com/agathaLdiniz/projeto-hemoglobina-glicada.git
 cd projeto-hemoglobina-glicada
